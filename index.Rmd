@@ -15,11 +15,7 @@ site: distill::distill_website
  
 ## Bio
 
-Francois Mercier works on statistics applied to clinical pharmacology at Roche-Genentech. His research focuses on modular models and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Francois Mercier does modeling and simulation (M&S) at Roche-Genentech to support decision-making in clinical drug development. His research focuses on dose-finding, and composite data models such as joint models, in oncology and neuroscience.
 
 ## Education
 

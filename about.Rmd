@@ -8,3 +8,13 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Born frequentist, Francois Mercier gradually developed an interest for the Bayesian formalism and use it now as main M&S framework. 
+
+He frequently collaborates with statistical engineers, and researchers who study Bayesian causal inference and machine learning.
+
+He has contributed to 
+* 50+ clinical development programs (Phase 1 to Phase 3), 
+* 4 NDAs (Fingolimod, Siponimod, Ocrelizumab, and Entrectinib.
+* 50+ scientific articles in statistics and clinical journals, 
+* 100+ scientific posters, 
+* 40+ oral communications in major conferences.
