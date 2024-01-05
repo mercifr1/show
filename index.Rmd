@@ -13,22 +13,24 @@ output:
 site: distill::distill_website
 ---
  
-## Bio
+I am a Distinguished Scientist in Modeling and Simulation at the [Roche Innovation Center in Basel](https://www.roche.ch/en/standorte/basel-hq.htm), in Basel. 
 
-Francois Mercier does modeling and simulation (M&S) at Roche-Genentech to support decision-making in clinical drug development. His research focuses on dose-finding, and composite data models such as joint models, in oncology and neuroscience.
+After completion of a Ph.D. in Modeling and Simulation of Biology Systems at ([Univ. Lyon 1](https://www.univ-lyon1.fr/en)), I started working in clinical development in 1997. 
+Endorsing various roles (data scientist, statistician, pharmacometrician) during  my career, I have had the opportunity to work in different countries (France, Switzerland, USA) and different settings for the pharmaceutical industry: in a small company (Laboratoires Fournier, now [Inventiva](https://inventivapharma.com/)), a CRO specializing in model-based drug development ([Certara](https://www.certara.com/)), and two of the largest pharmaceutical groups ([Novartis](https://www.novartis.com/) and [Roche](https://www.roche.com/)). 
 
-## Education
+I use semi-mechanistic and statistical models of clinical data to support decision-making in drug development. My research focuses mainly on *dose-finding*, and composite data models such as *joint models*. 
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+I have also started evaluating the potential of *Bayesian causal inference* and *machine learning*.
 
-Ph.D. in Computer Science | September 2009 - May 2014
+So far, I have contributed to 
 
-**The University of California, Berkeley** | Berkeley, CA
+* 50+ clinical development programs (Phase 1 to Phase 3)
 
-B.S. in Computer Science | September 2005 - May 2009
+* 4 NDAs (fingolimod, siponimod, ocrelizumab, and entrectinib)
 
-## Experience
+* 50+ scientific articles in statistics and clinical journals
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+* 60+ scientific posters
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+* 40+ oral communications in statistics and pharmacometrics conferences.
+
