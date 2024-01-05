@@ -1,10 +1,80 @@
 ---
-title: "About this site"
+title: "About me"
 description: |
-  Some additional details about the website
+  Some additional details about me
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+# Research Overview
+
+I use semi-mechanistic and statistical models of clinical data to support decision-making in drug development. My research focuses mainly on dose-finding, and composite data models such as joint models. I have also started evaluating the potential and challenges of Bayesian causal inference and machine learning.
+I work on projects in oncology solid tumors (NSCLC, UBC, HCC, RCC, OvC) and neurosciences (Multiple Sclerosis and Alzheimer's disease).
+
+# Education
+
+* Ph. D.  University Lyon 1, Applied Mathematics, 1997.
+* M. Sc.  University Lyon 1, Biomathematics, 1993.
+* B. Sc.  University Lyon 1, Biology, 1991.
+
+# Experience (in recent years)
+
+__Roche-Genentech - Basel, 2014-Present __
+
+PROJECTS
+
+* Project Lead Statistician in early oncology clinical development for the __PD1-IL2v__ (2019-2023), __TYRP1-TCB__ (2020-2023), __MAP4K1__ (2021-2022) and __CEACAM5-TCB__ (2019-2020) projects; Supported the definition of the clinical development plan, study designs, and delivered statistical analyses to support decision-making.
+
+* Lead Modeler for the __entrectinib__ project, in both ROS1 lung cancer (NSCLC) patients and NTRK fusion positive (tumor agnostic) patients (2018-2019); in particular extrapolation of the dose in children (based on body surface area) supported by population PK modeling done in adults. Filing in Dec-2018 in USA and Japan, and Jan-2019 in EU.
+
+* Lead Modeler for the __ocrelizumab__ project, in both relapsing (RMS) and primary progressive multiple sclerosis (PPMS) (2014-2017); in particular extrapolation of the dose in PPMS supported by population PKPD modeling done in RMS patients. Filing in 2016 and approval in USA (BLA 761053) and EU (EMA Assessment Report 790835) in 2017.
+
+LEADERSHIP
+
+* __Causal inference in pharmacometrics__ (2023-...): *Principal Investigator* in a cross-industry working group evaluating how the renewed interest in causal inference may impact pharmacometrics.
+
+* __Estimands in early oncology clinical development__ (2021-2023): *Principal Investigator* in the EDEN working group, a task force of the [oncoestimand](https://oncoestimand.github.io/oncowg_webpage/docs/) cross-industry effort. We developed to recommendations for the handling of intercurrent events in [Phase 1a adaptive trials evaluating drug toxicity using DLT](https://doi.org/10.1080/19466315.2023.2296648), and in [Phase 1b/2 trials evaluating efficacy on the basis of ORR](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2319). In a separate task force, I also contributed to a reflection on estimand for the evaluation of [duration of response](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2340).
+
+* __Pharmacometrics section leader__ (2014-2019): Team leader for a group of 5 pharmacometricians. Technical oversight of all agreed modeling activities. Recruit, retain, train and develop staff within the Clinical Pharmacometrics group.
+
+WORKSTREAMS CONTRIBUTOR
+
+* __Dose and schedule optimization__ (2020-2022): Definition and identification of the "right" dosing regimen has often been expedited in oncology solid tumor, resulting - in some case - in post-approval requirement for sponsors to prove that the marketed dose was "fair". In this work stream, we defined minimum requirements for oncology clinical development plans to deliver the "right" dosing regimen.
+
+* __Model-based bio-equivalence__ (2016-2022): In case of sample study (e.g. in pediatric indication) and/or sparse PK sampling, it might be difficult to assess PK bioequivalence (BE). In this joint industry-FDA-academic effort, model-based BE evaluation is considered, and the operating characteristics are assessed.
+
+# Mentoring (in recent years)
+
+* Anna Fochesato - postdoc at Roche (2023-2025)
+* Georgios Kazantzidis (U. Zurich, Switzerland) - Ph.D. at Roche (2023-2026)
+* Yannik Amman (U. Zurich, Switzerland) - M.Sc. internship at Roche (2023)
+* Marion Kerioui (U. Paris, France) - Ph.D. at Roche (2019-2022)
+* Iulia-Maia Muresan (U. Geneva, Switzerland) - M.Sc. internship at Roche (2022)
+* Athena Sheppard (U. Leicester, UK) - M.Sc. internship at Roche (2022)
+* Marine Pillet (U. Bordeaux, France) - M.Sc. internship at Roche (2019) 
+* Sandrine Brice (ENSAI, France) - M.Sc. internship at Roche (2017)
+
+# Other professional activities
+
+__Reviewer for__: Pharmaceutical Statistics, Journal of Biopharmaceutical Statistics, Statistics in Medicine, CPT: Pharmacometrics and Systems Pharmacology, AAPS Journal.
+
+__Workshops and Conferences attended at least three times__:
+
+* Annual conference of the International Society of Clinical Biostatistics (ISCB)
+
+* Population Approach Group in Europe (PAGE) meeting
+
+__Membership to professional associations__:
+
+* 2022-now	[International Society of Bayesian Analysis](https://bayesian.org/) (ISBA)
+
+* 2016-now 	[International Society of Pharmacometrics](http://www.go-isop.org/) (ISoP)
+
+* 2008-now	[International Society of Clinical Biostatistics](https://iscb.international/) (ISCB)
+
+* 1999-2008 [Société Française de Statistique – Groupe Biopharmacie et Santé](https://www.sfds.asso.fr/) (SFdS)
+
 
