@@ -1,7 +1,7 @@
 name: "."
 title: " "
 description: |
-  mercifr1 pages
+       
 output_dir: "docs"
 navbar:
   right:
