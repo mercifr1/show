@@ -17,6 +17,6 @@ site: distill::distill_website
 Bonjour! 
 
 I am a Distinguished Scientist in Modeling and Simulation at the [Roche Innovation Center in Basel](https://www.roche.ch/en/standorte/basel-hq.htm), in Basel. 
-In this role, I convert data into insights using various statistical models and programming techniques. R + Git enthusiast, I am! 
+In this role, I convert data into insights using various statistical models and programming techniques. <i class="fab fa-r-project"></i> + <i class="fa-brands fa-github"></i> enthusiast! 
 
 
