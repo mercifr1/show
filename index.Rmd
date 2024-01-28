@@ -2,33 +2,21 @@
 title: "Francois Mercier"
 image: "IMG_1013.jpg"
 links:
-  - label: LinkedIn
+  - label: '<i class="fab fa-linkedin fa-3x"></i>'
     url: "https://www.linkedin.com/in/francois-mercier-a493805/"
-  - label: GitHub
+  - label: '<i class="fab fa-github fa-3x"></i>'
     url: "https://github.com/mercifr1"
-  - label: Email
+  - label: '<i class="fas fa-envelope-open fa-3x"></i>'
     url: "mailto:francois0mercier@gmail.com"
+
 output:
   postcards::trestles
 site: distill::distill_website
 ---
  
+Bonjour! 
+
 I am a Distinguished Scientist in Modeling and Simulation at the [Roche Innovation Center in Basel](https://www.roche.ch/en/standorte/basel-hq.htm), in Basel. 
+In this role, I convert data into insights using various statistical models and programming techniques. R + Git enthusiast, I am! 
 
-After completion of a Ph.D. in Modeling and Simulation of Biology Systems at ([Univ. Lyon 1](https://www.univ-lyon1.fr/en)), I started working in clinical development in 1997. 
-Endorsing various roles (data scientist, statistician, pharmacometrician) during  my career, I have had the opportunity to work in different countries (France, Switzerland, USA) and different settings for the pharmaceutical industry: in a small company (Laboratoires Fournier, now [Inventiva](https://inventivapharma.com/)), a CRO specializing in model-based drug development ([Certara](https://www.certara.com/)), and two of the largest pharmaceutical groups ([Novartis](https://www.novartis.com/) and [Roche](https://www.roche.com/)). 
-
-I use semi-mechanistic and statistical models of clinical data to support decision-making in drug development. My research focuses mainly on *dose-finding*, and composite data models such as *joint models*. 
-
-I have also started evaluating the potential of *Bayesian causal inference* and *machine learning*.
-
-So far, I have contributed to 
-
-* 50+ clinical development programs (Phase 1 to Phase 3)
-
-* 4 NDAs (fingolimod, siponimod, ocrelizumab, and entrectinib)
-
-* 50+ scientific articles in statistics and clinical journals
-
-* 60+ posters and 40+ oral communications in statistics and pharmacometrics conferences.
 

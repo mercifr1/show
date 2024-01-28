@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "Francois Mercier"
 description: |
-  Some additional details about me
+  About me
 ---
 
 ```{r setup, include=FALSE}
@@ -9,16 +9,22 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-# Research Overview
+Hi!
 
-I use semi-mechanistic and statistical models of clinical data to support decision-making in drug development. My research focuses mainly on dose-finding, and composite data models such as joint models. I have also started evaluating the potential and challenges of Bayesian causal inference and machine learning.
-I work on projects in oncology solid tumors (NSCLC, UBC, HCC, RCC, OvC) and neurosciences (Multiple Sclerosis and Alzheimer's disease).
+I am a statistician/pharmacometrician at the [Roche Innovation Center in Basel](https://www.roche.ch/en/standorte/basel-hq.htm), in Basel. 
 
-# Education
 
-* Ph. D.  University Lyon 1, Applied Mathematics, 1997.
-* M. Sc.  University Lyon 1, Biomathematics, 1993.
-* B. Sc.  University Lyon 1, Biology, 1991.
+# Current research interest
+
+I work on clinical projects in oncology solid tumors (NSCLC, UBC, HCC, RCC, OvC) and in neurosciences (Multiple Sclerosis and Alzheimer's disease).
+
+I use parametric models of clinical data to understand disease progression and drug effects, and to support decision-making in drug development. I have been involved in methodological developments to better assess dose-exposure-response relationship and exploit composite data models such as joint models. My interest lies in making the best use of current data and prior knowledge (Bayesian at heart!) to inform decisions when data are sparse and/or incomplete.
+
+Please find a list of my publications on 
+
+* [Google Scholar](https://scholar.google.com/citations?user=JZwKfSkAAAAJ&hl=en), or
+* [ORCID](https://orcid.org/0000-0002-5685-1408).
+
 
 # Experience (in recent years)
 
@@ -48,14 +54,23 @@ WORKSTREAMS CONTRIBUTOR
 
 # Mentoring (in recent years)
 
-* Anna Fochesato - postdoc at Roche (2023-2025)
-* Georgios Kazantzidis (U. Zurich, Switzerland) - Ph.D. at Roche (2023-2026)
+* Anna Fochesato - postdoc at Roche (2023-ongoing)
+* Georgios Kazantzidis (U. Bordeaux, Switzerland) - Ph.D. at Roche (2023-ongoing)
 * Yannik Amman (U. Zurich, Switzerland) - M.Sc. internship at Roche (2023)
 * Marion Kerioui (U. Paris, France) - Ph.D. at Roche (2019-2022)
 * Iulia-Maia Muresan (U. Geneva, Switzerland) - M.Sc. internship at Roche (2022)
 * Athena Sheppard (U. Leicester, UK) - M.Sc. internship at Roche (2022)
 * Marine Pillet (U. Bordeaux, France) - M.Sc. internship at Roche (2019) 
 * Sandrine Brice (ENSAI, France) - M.Sc. internship at Roche (2017)
+
+# Education
+
+I did my cursus at [University Lyon 1](https://www.univ-lyon1.fr/en):
+
+* Ph. D. (1997), at the Biometrics lab ([LBBE](https://lbbe.univ-lyon1.fr/en)).
+* M. Sc. (1993) in Mathematics Applied to Biology (MAB).
+* B. Sc. (1991) in Biology.
+
 
 # Other professional activities
 
@@ -75,6 +90,10 @@ __Membership to professional associations__:
 
 * 2008-now	[International Society of Clinical Biostatistics](https://iscb.international/) (ISCB)
 
-* 1999-2008 [Société Française de Statistique – Groupe Biopharmacie et Santé](https://www.sfds.asso.fr/) (SFdS)
+
+# Previous experience (in a nutshell)
+
+I started working in clinical development in 1997. Endorsing various roles (data scientist, statistician, pharmacometrician) during  my career, I have had the opportunity to work in different countries (France, Switzerland, USA) and different settings: in a small company (Laboratoires Fournier, now [Inventiva](https://inventivapharma.com/)), a CRO specializing in model-based drug development ([Certara](https://www.certara.com/)), and two large pharma companies ([Novartis](https://www.novartis.com/) and [Roche](https://www.roche.com/)). 
+
 
 
