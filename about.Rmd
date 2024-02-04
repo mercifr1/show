@@ -1,7 +1,8 @@
 ---
-title: "Francois Mercier"
+title: "About me"
 description: |
-  About me
+date: "`r Sys.Date()`"
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}

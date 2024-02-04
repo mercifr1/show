@@ -1,5 +1,5 @@
 ---
-title: "Francois Mercier"
+title: " "
 image: "IMG_1013.jpg"
 links:
   - label: '<i class="fab fa-linkedin fa-3x"></i>'
@@ -14,7 +14,7 @@ output:
 site: distill::distill_website
 ---
  
-Bonjour! 
+Bonjour!
 
 I am a Distinguished Scientist in Modeling and Simulation at the [Roche Innovation Center in Basel](https://www.roche.ch/en/standorte/basel-hq.htm), in Basel. 
 In this role, I convert data into insights using various statistical models and programming techniques. <i class="fab fa-r-project"></i> + <i class="fa-brands fa-github"></i> enthusiast! 
