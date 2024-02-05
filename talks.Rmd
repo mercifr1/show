@@ -16,7 +16,7 @@ List of talks I gave at scientific conferences, including supporting slides (whe
 
 
 
-## [11]
+[11]
 
 Presenter: **Mercier F.**
 
@@ -27,14 +27,14 @@ Presenter: **Mercier F.**
 </div>
 
 
-## [10]
+[10]
 
 Presenter: Bruno R., Co-presenters: Claret L., **Mercier F.**
 
 "Drug-independent models for predicting overall survival" - ASA Biopharmaceutical Section FDA-Industry Statistics Workshop, *Washington (DC, USA)*, (16-18 Sep 2013)
 
 
-## [09]
+[09]
 
 Presenter: **Mercier F.** 
 
@@ -45,21 +45,21 @@ Presenter: **Mercier F.**
 </div>
 
 
-## [08]
+[08]
 
 Presenter: **Mercier F.** 
 
 "An adaptive dose-ranging study to fully characterize the dose-response relationship in multiple sclerosis" - Joint BfArM/DIA Statistics Workshop, *Bonn (Germany)*, (17-19 Oct 2012)
 
 
-## [07]
+[07]
 
 Presenter: **Mercier F.** 
 
 "Model-based drug development in multiple sclerosis: Integrating disease, drug and market data for improved decision making" - Webinar hosted by Pharsight Consulting Services, (12 Sep 2012)
 
 
-## [06]
+[06]
 
 Presenter: Mandel M., Co-presenters: **Mercier F.**, Eckert B., Chin P., Betensky R.
 
@@ -70,7 +70,7 @@ Presenter: Mandel M., Co-presenters: **Mercier F.**, Eckert B., Chin P., Betensk
 </div>
 
 
-## [05]
+[05]
 
 Presenter: Francis G., Co-presenters: Zhang-Auberson L., deVera A., Looby M., **Mercier F.**, Cohen J.
 
@@ -81,7 +81,7 @@ Presenter: Francis G., Co-presenters: Zhang-Auberson L., deVera A., Looby M., **
 </div>
 
 
-## [04]
+[04]
 
 Presenter: **Mercier F.**, Co-presenter: Pinheiro J.
 
@@ -92,14 +92,14 @@ Presenter: **Mercier F.**, Co-presenter: Pinheiro J.
 </div>
 
 
-## [03]
+[03]
 
 Presenter: **Mercier F.**, Co-presenters: Renard D., Looby M., Stansky D.
 
 "Model-based approach for characterizing dose-response of a bronchodilator" - Joint Industry-FDA workshop on Modeling and Simulation, *Cambridge (MA, USA)*, (01 Sep 2010)
 
 
-## [02]
+[02]
 
 Presenter: **Mercier F.**
 
@@ -110,7 +110,7 @@ Presenter: **Mercier F.**
 </div>
 
 
-## [01]
+[01]
 
 Presenter: **Mercier F.**
 

@@ -1,6 +1,6 @@
 ---
-title: " "
-image: "IMG_1013.jpg"
+title: " &#10522; &#8497;. &#10230; "
+#image: "IMG_1013.jpg"
 links:
   - label: '<i class="fab fa-linkedin fa-3x"></i>'
     url: "https://www.linkedin.com/in/francois-mercier-a493805/"
@@ -10,13 +10,28 @@ links:
     url: "mailto:francois0mercier@gmail.com"
 
 output:
-  postcards::trestles
+  distill::distill_article
+#  postcards::trestles
 site: distill::distill_website
 ---
  
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, echo = FALSE, fig.align = 'center', fig.show = 'hold', out.width = '40%'} 
+knitr::include_graphics("./Images/IMG_1013.jpg")  
+```
+
+
+
 Bonjour!
 
 I am a Distinguished Scientist in Modeling and Simulation at the [Roche Innovation Center in Basel](https://www.roche.ch/en/standorte/basel-hq.htm), in Basel. 
-In this role, I convert data into insights using various statistical models and programming techniques. <i class="fab fa-r-project"></i> + <i class="fa-brands fa-github"></i> enthusiast! 
+In this role, I convert data into insights using various statistical models and programming techniques. I am an <i class="fab fa-r-project"></i> + <i class="fa-brands fa-github"></i> enthusiast!
 
+In these pages, you will find some information about my current professional engagement, as well as past oral presentations.
+
+My contributions to scientific articles are listed on these [Google Scholar](https://scholar.google.com/citations?user=JZwKfSkAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-5685-1408) profiles.
 
