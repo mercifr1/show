@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r, echo = FALSE, fig.align = 'center', fig.show = 'hold', out.width = '40%'} 
-knitr::include_graphics("./Images/IMG_1013.jpg")  
+knitr::include_graphics("./Images/IMG_1013.JPG")  
 ```
 
 
